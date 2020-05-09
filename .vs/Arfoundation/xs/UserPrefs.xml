@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{48525B67-71F8-6E9E-3CAE-5857FD9210AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArTapToPlace.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ArTapToPlace.cs" Line="67" Column="6" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanPath.cs" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanTwistRotateAxis.cs" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanTwistRotate.cs" />
+      <File FileName="Assets/Scripts/TakeScreenshot.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@2.1.4/Runtime/AR/ARPointCloudManager.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@2.1.4/Runtime/AR/ARPointCloudParticleVisualizer.cs" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanSelect.cs" />
+      <File FileName="Assets/backbutton.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7c9aa51-7b85-4acf-a4a8-53e1ca4df6d0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
